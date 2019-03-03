@@ -9,4 +9,4 @@ In this case, we must obtain information about the products found on this websit
 
 ### Links ###
 * [Practice statement](https://cv.udl.cat/access/content/attachment/102023-1819/Activitats/07919b10-6280-4738-bbc2-0f19c3ce386b/enunciat.pdf)
-* [Pagina utilizada](https://www.banggood.com/Flashdeals.html)
+* [Used page](https://www.banggood.com/Flashdeals.html)
